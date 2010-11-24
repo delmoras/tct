@@ -1,0 +1,15 @@
+The Crime Tracer -- `TODO' starts here.
+
+Todo:
+
+  * The error messages should always be
+    printed regardless of verbose value
+
+  * Informative messages should be printed
+    only when verbose flag is set to false
+
+  * Get help from PEP 8 Style Guide for Python Code
+
+  * Make the `meny.py' class sprite-based
+
+The Crime Tracer -- `TODO' ends here.
